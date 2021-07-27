@@ -1,0 +1,27 @@
+[
+  {
+    "id": "SJKhIAKYB",
+    "from": "system",
+    "text": "Welcome!"
+  },
+  {
+    "id": "HJl3Oqa0O",
+    "from": "alice",
+    "text": "Hi Bob"
+  },
+  {
+    "id": "HkD3d5TC_",
+    "from": "bob",
+    "text": "Hi Alice"
+  },
+  {
+    "id": "r1HAtcaR_",
+    "from": "alice",
+    "text": "Hi B"
+  },
+  {
+    "id": "Syp0YcT0_",
+    "from": "bob",
+    "text": "Hi A"
+  }
+]
